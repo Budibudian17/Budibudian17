@@ -59,11 +59,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Budibudian17&hide_border=true&theme=tokyo-night" alt="GitHub activity graph">
+  <img src="https://ghchart.rshah.org/409ba5/Budibudian17" alt="GitHub contribution activity chart">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Budibudian17&no-frame=true&no-bg=true&margin-w=8&row=1&theme=tokyonight" alt="GitHub trophies">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Budibudian17&theme=tokyonight" alt="GitHub profile summary">
 </p>
 
 ---
