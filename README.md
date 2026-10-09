@@ -35,41 +35,59 @@
 
 ## Experience & Featured Projects
 
-| Organization / Product | Highlights |
-| --- | --- |
-| **YBB Organization (Youth Break the Boundaries)** | Developing web platforms for youth empowerment and international programs; improving performance, scalability, and global participant registration with Next.js and TypeScript. |
-| **[CiptaLife](https://ciptalife.id/)** | Healthcare platform for the Depok Health Department, with patient management, appointment scheduling, medical records, and analytics. |
-| **Dkerens** | Developed and maintained an MSME management system for the Depok City Government. |
-| **[MuslimTime](https://muslim-times.vercel.app/)** | Islamic web app for Qur'an reading, recitations, prayer times, and account authentication. [View source](https://github.com/Budibudian17/MuslimTime). |
-| **[Enterprise Resource Planning](https://onebox.co.id/)** | ERP system with inventory, finance, HR, and reporting modules. |
-| **PT Ciptadra SoftIndo** | Progressed from Industry Class and Front-End Intern to Front-End Developer, building and maintaining responsive web applications. |
-| **Ngide Interactive** | Founded an independent game development studio focused on creative, cross-platform experiences with Unity. |
+### 🌐 YBB Organization — Web Developer
+
+> Developing web platforms for youth empowerment and international programs, with a focus on performance, scalability, and global participant registration using Next.js and TypeScript.
+
+### 🏥 [CiptaLife](https://ciptalife.id/)
+
+> Healthcare platform for the Depok Health Department, featuring patient management, appointment scheduling, medical records, and analytics.
+
+### 🛍️ Dkerens
+
+> MSME management system developed for the Depok City Government.
+
+### ☪️ [MuslimTime](https://muslim-times.vercel.app/)
+
+> Islamic web app for Qur'an reading, recitations, prayer times, and account authentication. [View source](https://github.com/Budibudian17/MuslimTime).
+
+### 📊 [Enterprise Resource Planning](https://onebox.co.id/)
+
+> ERP system with inventory, finance, HR, and reporting modules.
+
+### 💼 PT Ciptadra SoftIndo
+
+> Progressed from Industry Class and Front-End Intern to Front-End Developer, building and maintaining responsive web applications.
+
+### 🎮 Ngide Interactive
+
+> Founded an independent game development studio focused on creative, cross-platform experiences with Unity.
 
 ## Education & Achievements
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://hilmifarrelportfolio.vercel.app/img/smkn1depok.webp" width="76" height="76" alt="SMKN 01 Depok logo">
-      <br><strong>SMKN 01 Depok</strong>
-      <br>Software and Game Development (PPLG)
-      <br><sub>2022–2025</sub>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://hilmifarrelportfolio.vercel.app/img/smpn3depok.webp" width="76" height="76" alt="SMPN 03 Depok logo">
-      <br><strong>SMPN 03 Depok</strong>
-      <br>Junior High School
-      <br><sub>2019–2022</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://nurulfikri.ac.id/wp-content/uploads/2019/12/logo-sttnf-brand.png" width="150" alt="STT Terpadu Nurul Fikri logo">
-      <br><strong>STT Terpadu Nurul Fikri</strong>
-      <br>Informatics Engineering undergraduate studies
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://nurulfikri.ac.id/wp-content/uploads/2019/12/logo-sttnf-brand.png" width="110" alt="STT Terpadu Nurul Fikri logo">
+</div>
+
+### STT Terpadu Nurul Fikri
+
+> Informatics Engineering undergraduate studies
+
+<div align="center">
+  <img src="https://hilmifarrelportfolio.vercel.app/img/smkn1depok.webp" width="76" alt="SMKN 01 Depok logo">
+</div>
+
+### SMKN 01 Depok
+
+> Software and Game Development (PPLG) · **2022–2025**
+
+<div align="center">
+  <img src="https://hilmifarrelportfolio.vercel.app/img/smpn3depok.webp" width="76" alt="SMPN 03 Depok logo">
+</div>
+
+### SMPN 03 Depok
+
+> Junior High School · **2019–2022**
 
 **Professional credentials**
 
@@ -78,47 +96,49 @@
 [![SejutaCita](https://img.shields.io/badge/SejutaCita-Top_50_Quiz_Competition-6F42C1?style=flat-square)](https://hilmifarrelportfolio.vercel.app/certifications)
 [![Hacktiv8](https://img.shields.io/badge/Hacktiv8-AI_Productivity_%26_API_Integration-1F883D?style=flat-square)](https://hilmifarrelportfolio.vercel.app/certifications)
 
-<details>
-<summary><strong>View achievement certificates</strong></summary>
+## Achievements & Certificates
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://i.imgur.com/V58VLiX.webp">
-        <img src="https://i.imgur.com/V58VLiX.webp" width="240" alt="Top 50 General Knowledge Quiz Competition certificate, SejutaCita Future Leaders Chapter 12">
-      </a>
-      <br><strong>Top 50 — SejutaCita Future Leaders</strong>
-      <br><sub>Chapter 12: Japan · 2026</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://i.imgur.com/aNc6twi.webp">
-        <img src="https://i.imgur.com/aNc6twi.webp" width="240" alt="Japanese Language Course certificate, 54 hours, Language Better and Computer">
-      </a>
-      <br><strong>Japanese Language Course</strong>
-      <br><sub>54 hours · Language Better and Computer</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://i.imgur.com/e53E3y2.webp">
-        <img src="https://i.imgur.com/e53E3y2.webp" width="240" alt="AI Productivity and AI API Integration for Developers certificate from Hacktiv8">
-      </a>
-      <br><strong>AI Productivity & API Integration</strong>
-      <br><sub>Hacktiv8 · 2025</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://hilmifarrelportfolio.vercel.app/img/imgur-uSe4ZDd-1754883520010.webp">
-        <img src="https://hilmifarrelportfolio.vercel.app/img/imgur-uSe4ZDd-1754883520010.webp" width="240" alt="Industry Class Certificate from PT Ciptadra SoftIndo">
-      </a>
-      <br><strong>Industry Class Certificate</strong>
-      <br><sub>PT Ciptadra SoftIndo · 2025</sub>
-    </td>
-  </tr>
-</table>
+### 🏆 Top 50 — SejutaCita Future Leaders
+
+<div align="center">
+  <a href="https://i.imgur.com/V58VLiX.webp">
+    <img src="https://i.imgur.com/V58VLiX.webp" width="440" alt="Top 50 General Knowledge Quiz Competition certificate, SejutaCita Future Leaders Chapter 12">
+  </a>
+</div>
+
+> General Knowledge Quiz Competition · Chapter 12: Japan · **2026**
+
+### 🇯🇵 Japanese Language Course
+
+<div align="center">
+  <a href="https://i.imgur.com/aNc6twi.webp">
+    <img src="https://i.imgur.com/aNc6twi.webp" width="440" alt="Japanese Language Course certificate, 54 hours, Language Better and Computer">
+  </a>
+</div>
+
+> 54-hour course · Language Better and Computer
+
+### 🤖 AI Productivity & API Integration
+
+<div align="center">
+  <a href="https://i.imgur.com/e53E3y2.webp">
+    <img src="https://i.imgur.com/e53E3y2.webp" width="440" alt="AI Productivity and AI API Integration for Developers certificate from Hacktiv8">
+  </a>
+</div>
+
+> AI Productivity and AI API Integration for Developers · Hacktiv8 · **2025**
+
+### 💻 Industry Class Certificate
+
+<div align="center">
+  <a href="https://hilmifarrelportfolio.vercel.app/img/imgur-uSe4ZDd-1754883520010.webp">
+    <img src="https://hilmifarrelportfolio.vercel.app/img/imgur-uSe4ZDd-1754883520010.webp" width="440" alt="Industry Class Certificate from PT Ciptadra SoftIndo">
+  </a>
+</div>
+
+> PT Ciptadra SoftIndo · **2025**
 
 [View all certifications](https://hilmifarrelportfolio.vercel.app/certifications)
-
-</details>
 
 ## Tech Stack
 
