@@ -23,7 +23,7 @@
 
 <br>
 
-## 👋 About
+## <img src="assets/icons/hand-wave.svg" width="22" height="22" alt=""> About
 
 ```ts
 const hilmi = {
@@ -36,46 +36,46 @@ const hilmi = {
 };
 ```
 
-- 🌍 Currently restructuring the web ecosystem of **YBB (Youth Break the Boundaries)** with **Next.js** and **TypeScript**.
-- 🏛️ Previously built and maintained applications for the **Depok City Government** at **PT Ciptadra SoftIndo**.
-- 🔌 Experienced with registration modules, analytics visualizations, and **BPJS** / **PCare** API integrations.
-- 🎮 Founder of **Ngide Interactive**, creating cross-platform games with Unity.
+- <img src="assets/icons/globe.svg" width="16" height="16" alt=""> Currently restructuring the web ecosystem of **YBB (Youth Break the Boundaries)** with **Next.js** and **TypeScript**.
+- <img src="assets/icons/landmark.svg" width="16" height="16" alt=""> Previously built and maintained applications for the **Depok City Government** at **PT Ciptadra SoftIndo**.
+- <img src="assets/icons/plug-zap.svg" width="16" height="16" alt=""> Experienced with registration modules, analytics visualizations, and **BPJS** / **PCare** API integrations.
+- <img src="assets/icons/gamepad.svg" width="16" height="16" alt=""> Founder of **Ngide Interactive**, creating cross-platform games with Unity.
 
 <br>
 
-## 🧭 Career Path
+## <img src="assets/icons/compass.svg" width="22" height="22" alt=""> Career Path
 
 | | Role | What I do |
 |:-:|---|---|
-| 🌐 | **YBB Organization** · Web Developer<br><sub>Current</sub> | Developing web platforms for youth empowerment and international programs, focused on performance, scalability, and global participant registration with Next.js and TypeScript. |
-| 🎮 | **Ngide Interactive** · Founder | Independent game development studio focused on creative, cross-platform experiences with Unity. |
-| 💼 | **PT Ciptadra SoftIndo** · Front-End Developer | Grew from Industry Class and Front-End Intern into Front-End Developer, building and maintaining responsive web applications. |
+| <img src="assets/icons/globe.svg" width="18" height="18" alt=""> | **YBB Organization** · Web Developer<br><sub>Current</sub> | Developing web platforms for youth empowerment and international programs, focused on performance, scalability, and global participant registration with Next.js and TypeScript. |
+| <img src="assets/icons/gamepad.svg" width="18" height="18" alt=""> | **Ngide Interactive** · Founder | Independent game development studio focused on creative, cross-platform experiences with Unity. |
+| <img src="assets/icons/briefcase.svg" width="18" height="18" alt=""> | **PT Ciptadra SoftIndo** · Front-End Developer | Grew from Industry Class and Front-End Intern into Front-End Developer, building and maintaining responsive web applications. |
 
 <br>
 
-## 🚀 Featured Projects
+## <img src="assets/icons/rocket.svg" width="22" height="22" alt=""> Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏥 <a href="https://ciptalife.id/">CiptaLife</a></h3>
+      <h3><img src="assets/icons/hospital.svg" width="18" height="18" alt=""> <a href="https://ciptalife.id/">CiptaLife</a></h3>
       <sub>Healthcare · Depok Health Department</sub>
       <p>Patient management, appointment scheduling, medical records, and analytics.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>📊 <a href="https://onebox.co.id/">Enterprise Resource Planning</a></h3>
+      <h3><img src="assets/icons/chart.svg" width="18" height="18" alt=""> <a href="https://onebox.co.id/">Enterprise Resource Planning</a></h3>
       <sub>Business · ERP</sub>
       <p>Inventory, finance, HR, and reporting modules in one system.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛍️ Dkerens</h3>
+      <h3><img src="assets/icons/shopping-bag.svg" width="18" height="18" alt=""> Dkerens</h3>
       <sub>Government · Depok City Government</sub>
       <p>MSME management system for local small businesses.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>☪️ <a href="https://muslim-times.vercel.app/">MuslimTime</a></h3>
+      <h3><img src="assets/icons/moon-star.svg" width="18" height="18" alt=""> <a href="https://muslim-times.vercel.app/">MuslimTime</a></h3>
       <sub>Personal project · <a href="https://github.com/Budibudian17/MuslimTime">Source code</a></sub>
       <p>Islamic web app for Qur'an reading, recitations, prayer times, and account authentication.</p>
     </td>
@@ -84,7 +84,7 @@ const hilmi = {
 
 <br>
 
-## 🛠️ Tech Stack
+## <img src="assets/icons/wrench.svg" width="22" height="22" alt=""> Tech Stack
 
 <div align="center">
 
@@ -96,7 +96,7 @@ const hilmi = {
 
 <br>
 
-## 🎓 Education
+## <img src="assets/icons/graduation-cap.svg" width="22" height="22" alt=""> Education
 
 | | Institution | Program | Period |
 |:-:|---|---|:-:|
@@ -106,7 +106,7 @@ const hilmi = {
 
 <br>
 
-## 🏆 Achievements & Certificates
+## <img src="assets/icons/trophy.svg" width="22" height="22" alt=""> Achievements & Certificates
 
 <div align="center">
 
@@ -121,24 +121,24 @@ const hilmi = {
   <tr>
     <td align="center" width="50%">
       <a href="https://i.imgur.com/V58VLiX.webp"><img src="https://i.imgur.com/V58VLiX.webp" alt="Top 50 General Knowledge Quiz Competition certificate, SejutaCita Future Leaders Chapter 12"></a>
-      <br><b>🏆 Top 50 · SejutaCita Future Leaders</b>
+      <br><b><img src="assets/icons/trophy.svg" width="16" height="16" alt=""> Top 50 · SejutaCita Future Leaders</b>
       <br><sub>General Knowledge Quiz · Chapter 12: Japan · 2026</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://i.imgur.com/e53E3y2.webp"><img src="https://i.imgur.com/e53E3y2.webp" alt="AI Productivity and AI API Integration for Developers certificate from Hacktiv8"></a>
-      <br><b>🤖 AI Productivity & API Integration</b>
+      <br><b><img src="assets/icons/bot.svg" width="16" height="16" alt=""> AI Productivity & API Integration</b>
       <br><sub>Hacktiv8 · 2025</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://i.imgur.com/aNc6twi.webp"><img src="https://i.imgur.com/aNc6twi.webp" alt="Japanese Language Course certificate, 54 hours, Language Better and Computer"></a>
-      <br><b>🇯🇵 Japanese Language Course</b>
+      <br><b><img src="assets/icons/languages.svg" width="16" height="16" alt=""> Japanese Language Course</b>
       <br><sub>54 hours · Language Better and Computer</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://hilmifarrelportfolio.vercel.app/img/imgur-uSe4ZDd-1754883520010.webp"><img src="https://hilmifarrelportfolio.vercel.app/img/imgur-uSe4ZDd-1754883520010.webp" alt="Industry Class Certificate from PT Ciptadra SoftIndo"></a>
-      <br><b>💻 Industry Class Certificate</b>
+      <br><b><img src="assets/icons/laptop-check.svg" width="16" height="16" alt=""> Industry Class Certificate</b>
       <br><sub>PT Ciptadra SoftIndo · 2025</sub>
     </td>
   </tr>
@@ -152,7 +152,7 @@ const hilmi = {
 
 <br>
 
-## 📈 GitHub Activity
+## <img src="assets/icons/chart.svg" width="22" height="22" alt=""> GitHub Activity
 
 <div align="center">
 
